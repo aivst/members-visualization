@@ -1,6 +1,6 @@
 # 支持我们的项目
 
-如果 Datawhale 贡献者可视化平台对您有帮助，欢迎给我们点一个 Star 支持一下！您的认可就是我们持续改进的动力 ✨
+如果组织社区贡献者可视化平台对您有帮助，欢迎给我们点一个 Star 支持一下！您的认可就是我们持续改进的动力 ✨
 
 <div align="center" style="margin: 20px 0;">
   <img src="/star.png" alt="点 Star 示意图" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
@@ -18,7 +18,7 @@
 
 ## 🌟 如何点 Star？
 
-1. 点击上方图表或 [直接访问 GitHub 仓库](https://github.com/datawhalechina/members-visualization)
+1. 点击上方图表或 [直接访问 GitHub 仓库](https://github.com/aivst/members-visualization)
 2. 点击右上角的 "Star" 按钮（空心星星会变成实心）
 3. 完成！您的支持将帮助更多人发现这个项目
 
