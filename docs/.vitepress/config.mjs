@@ -8,8 +8,8 @@ const isEdgeOne = process.env.EDGEONE === '1'
 const baseConfig = isEdgeOne ? '/' : '/members-visualization/'
 
 export default defineConfig({
-  title: "组织社区数据可视化",
-  description: "组织社区数据可视化展示平台",
+  title: "AiVST数据可视化",
+  description: "AiVST数据可视化展示平台",
   base: baseConfig,
 
   // 语言设置
@@ -46,12 +46,12 @@ export default defineConfig({
       },
     ],
     ["meta", { name: "author", content: "Datawhale" }],
-    ["meta", { property: "og:title", content: "Datawhale 数据可视化" }],
+    ["meta", { property: "og:title", content: "AiVST数据可视化" }],
     [
       "meta",
       {
         property: "og:description",
-        content: "Datawhale 组织贡献者研究方向可视化展示平台",
+        content: "AiVST组织贡献者研究方向可视化展示平台",
       },
     ],
     ["meta", { property: "og:type", content: "website" }],
@@ -62,7 +62,7 @@ export default defineConfig({
   themeConfig: {
     // 网站标题和 Logo
     logo: "/logo.png",
-    siteTitle: "Datawhale 可视化",
+    siteTitle: "AiVST可视化",
 
     // 导航栏
     nav: [
@@ -92,8 +92,7 @@ export default defineConfig({
           { text: "新人引导", link: "/guide" },
           { text: "个人开源报告", link: "/report" },
           { text: "点 Star", link: "/star" },
-          { text: "Datawhale 官网", link: "https://www.datawhale.cn/" },
-          { text: "GitHub 组织", link: "https://github.com/datawhalechina" },
+          { text: "GitHub 组织", link: "https://github.com/aivst" },
         ],
       },
     ],
